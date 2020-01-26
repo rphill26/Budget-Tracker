@@ -14,11 +14,7 @@ Mongoose Database
 Node modules: Express, Compression and Morgan (Dev)
 
 ## Demo
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="./public/ezgif.com-optimize.gif" type="video/gif">
-  </video>
-</figure>
+[Prokect Demo] (./public/ezgif.com-optimize.gif)
 
 ## Deployed
 
