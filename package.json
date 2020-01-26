@@ -1,0 +1,27 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "Track your budget and see expenses",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rphill26/Budget-Tracker.git"
+  },
+  "author": "Randall G. Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rphill26/Budget-Tracker/issues"
+  },
+  "homepage": "https://github.com/rphill26/Budget-Tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1"
+  }
+}
