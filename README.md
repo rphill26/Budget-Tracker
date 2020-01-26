@@ -14,7 +14,7 @@ Mongoose Database
 Node modules: Express, Compression and Morgan (Dev)
 
 ## Demo
-[Prokect Demo] (./public/ezgif.com-optimize.gif)
+![Project Demo] (/public/ezgif.com-optimize.gif)
 
 ## Deployed
 
